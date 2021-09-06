@@ -1,0 +1,24 @@
+section {
+    border: 2px solid black;
+    padding: 1em;
+}
+
+#vemjag {
+    color: midnightblue;
+}
+
+#fritid {
+    color: steelblue;
+}
+
+#favospel {
+    color: steelblue;
+}
+
+#målkurs {
+    color: steelblue;
+}
+
+.backcolor {
+    background-color: azure ;
+}
