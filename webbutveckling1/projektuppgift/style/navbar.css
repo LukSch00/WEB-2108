@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background: white;
+    font-weight: 300;
+}
+header {
+    background: #ffffff;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav {
+    float: right;
+}
