@@ -9,5 +9,17 @@ P
  webbutveckling1/om-mig/style.css,d\5\d5310e1ccfd6cd64e037fcdabe95a76427f11840
 Q
 !webbutveckling1/om-mig/index.html,8\0\80682560cb36ca076323934e3205957601217bb2
+[
++webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
+\
+,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
+Y
+)webbutveckling1/projektuppgift/blogg.html,3\e\3eb6d494c6512ce03575f051008536b86185165f
 Y
 )webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
+Y
+)webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
+>
+.gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
+Y
+)webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
