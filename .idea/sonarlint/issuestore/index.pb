@@ -1,10 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-W
-'webbutveckling1/webbutveklare/Webb 1.md,d\0\d0878998ec303c58144e0ce7ce345c03f50eb18f
-W
-'webbutveckling1/webbutveklare/README.md,8\c\8c9ab64046b9e3013a810a51b9cb7311616f390e
 P
  webbutveckling1/om-mig/style.css,d\5\d5310e1ccfd6cd64e037fcdabe95a76427f11840
 >
@@ -12,20 +6,8 @@ P
 Q
 !webbutveckling1/om-mig/index.html,8\0\80682560cb36ca076323934e3205957601217bb2
 _
+/webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
+_
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
 Y
-)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
-_
-/webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
-X
-(webbutveckling1/projektuppgift/blog.html,a\7\a79582ef3a52dc2ae2b1c4132734594d59f4c263
-[
-+webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
-\
-,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
-Y
-)webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
-Y
 )webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
-^
-.webbutveckling1/projektuppgift/style/style.css,4\b\4b3996757f15be3efbcd286aa3bf41029488b87c

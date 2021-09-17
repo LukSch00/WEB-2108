@@ -1,0 +1,9 @@
+#footer {
+    background-color: gray;
+    float: bottom;
+    height: 60px;
+}
+
+#copyright {
+    text-align: center;
+}
