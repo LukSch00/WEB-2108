@@ -2,10 +2,8 @@ a{
     color: white;
 }
 
-header {
+nav {
     background-color: gray;
-    box-shadow:1px 1px 4px 0 rgba(0, 0, 0,.1);
-    position: fixed;
     width: 100%;
     z-index: 3;
 }
@@ -26,7 +24,7 @@ header {
 }
 
 .header ul a:hover {
-    background-color: black;
+    background-color: darkgray;
 }
 
 .header .logo {
@@ -47,6 +45,7 @@ header {
     position: relative;
     float: right;
     cursor: pointer;
+    border: 1px red solid;
 }
 
 .header .menu-icon .nav-icon {
@@ -65,7 +64,7 @@ header {
     height: 100%;
     width: 100%;
     position: absolute;
-    transition:all .2s ease-out; /* kan bli problem */
+    transition:all .2s ease-out;
     top: 5px;
 }
 
@@ -76,7 +75,7 @@ header {
     height: 100%;
     width: 100%;
     position: absolute;
-    transition:all .2s ease-out; /* kan bli problem*/
+    transition:all .2s ease-out;
     top: -5px;
 }
 
