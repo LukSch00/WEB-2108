@@ -5,14 +5,36 @@ td, th {
 }
 
 table {
-    border-collapse: collapse;
     width: 100%;
+    border-collapse: collapse;
 }
 
 #courses-header1 {
     text-align: center;
 }
 
+#courses-text1 {
+    padding: 10px;
+}
+
 #kurs-table {
     display: none;
+}
+
+#kurs-article {
+    padding: 10px;
+}
+
+.kursheaders {
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .kursheaders {
+        text-align: left;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+
 }
