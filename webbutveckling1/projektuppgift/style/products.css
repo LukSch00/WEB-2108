@@ -1,4 +1,40 @@
-.wrapper {
-    display: grid;
-    grid-template-columns: 60% 40%;
+#resize-image1 {
+    max-width: 95%;
+    max-height: 40%;
+}
+
+#uefa-header {
+    text-align: center;
+}
+
+#jabulani-header {
+    text-align: center;
+}
+
+#jabulani-text1 {
+    padding: 10px;
+}
+
+#jabulani-text2 {
+    padding: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+    nav {
+        background-color: green;
+    }
+    .wrapper {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .wrapper1 {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    nav {
+        background-color: red;
+    }
 }
