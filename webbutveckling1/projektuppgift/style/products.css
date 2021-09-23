@@ -1,40 +1,60 @@
-#resize-image1 {
-    max-width: 95%;
-    max-height: 40%;
+body {
+    background-color: white;
 }
 
-#uefa-header {
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#prod-rubrik {
     text-align: center;
-}
-
-#jabulani-header {
-    text-align: center;
-}
-
-#jabulani-text1 {
     padding: 10px;
 }
 
-#jabulani-text2 {
+#xboxhead {
+    text-align: center;
+}
+
+#xbox-text {
     padding: 10px;
+    border: 3px solid gray;
+    background-color: ivory;
+}
+
+#playstationhead {
+    text-align: center;
+}
+
+#playstation-text {
+    padding: 10px;
+    border: 3px solid gray;
+    background-color: ivory;
 }
 
 @media only screen and (min-width: 768px) {
     nav {
-        background-color: green;
+        background-color: red;
     }
+
     .wrapper {
-        display: grid;
-        grid-template-columns: 50% 50%;
+        display: flex;
+        flex-direction: row;
     }
     .wrapper1 {
-        display: grid;
-        grid-template-columns: 50% 50%;
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    #xboxhead {
+        text-align: center;
+        margin-right: 300px;
+    }
+
+    #playstationhead {
+        text-align: center;
+        margin-left: 300px;
     }
 }
 
-@media only screen and (min-width: 1200px) {
-    nav {
-        background-color: red;
-    }
-}
+

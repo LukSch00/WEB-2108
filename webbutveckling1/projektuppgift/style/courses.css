@@ -1,7 +1,13 @@
+body {
+    background-color: lavender;
+}
+
+
 td, th {
-    border: 1px solid black;
-    text-align: left;
+    border: 2px solid black;
+    text-align: center;
     padding: 10px;
+    background-color: ivory;
 }
 
 table {
@@ -17,12 +23,13 @@ table {
     padding: 10px;
 }
 
-#kurs-table {
+#table-cap {
     display: none;
 }
 
 #kurs-article {
     padding: 10px;
+    background-color: lavender;
 }
 
 .kursheaders {
@@ -30,6 +37,10 @@ table {
 }
 
 @media only screen and (min-width: 768px) {
+    #kurs-table {
+        width: 60%;
+
+    }
     .kursheaders {
         text-align: left;
     }
