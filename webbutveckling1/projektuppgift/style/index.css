@@ -1,7 +1,8 @@
-.hero-image {
-    background: url("../img/havet.jpg)");
+.image-back {
+    background-image: url("https://10wallpaper.com/wallpaper/1920x1080/1510/colorful_abstract_gradient-Design_HD_Wallpaper_1920x1080.jpg");
 }
 
-.heroimage-text {
+
+@media only screen and (min-width: 768px) {
 
 }

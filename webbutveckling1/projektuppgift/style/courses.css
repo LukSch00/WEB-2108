@@ -1,5 +1,5 @@
 body {
-    background-color: lavender;
+    background-color: aliceblue;
 }
 
 
@@ -29,20 +29,16 @@ table {
 
 #kurs-article {
     padding: 10px;
-    background-color: lavender;
+    background-color: aliceblue;
 }
 
 .kursheaders {
-    text-align: center;
+    text-align: left;
 }
 
 @media only screen and (min-width: 768px) {
-    #kurs-table {
-        width: 60%;
-
-    }
     .kursheaders {
-        text-align: left;
+        text-align: center;
     }
 }
 

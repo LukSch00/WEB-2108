@@ -33,9 +33,6 @@ body {
 }
 
 @media only screen and (min-width: 768px) {
-    nav {
-        background-color: red;
-    }
 
     .wrapper {
         display: flex;
@@ -51,9 +48,19 @@ body {
         margin-right: 300px;
     }
 
+    #xbox-text {
+        width: 60%;
+        margin-left: 60px;
+    }
+
     #playstationhead {
         text-align: center;
         margin-left: 300px;
+    }
+
+    #playstation-text {
+        width: 60%;
+        margin-right: 60px;
     }
 }
 

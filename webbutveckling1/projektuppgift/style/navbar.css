@@ -45,7 +45,6 @@ nav {
     position: relative;
     float: right;
     cursor: pointer;
-    border: 1px red solid;
 }
 
 .header .menu-icon .nav-icon {
