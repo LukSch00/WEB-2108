@@ -2,18 +2,21 @@ body {
     background-color: white;
 }
 
+#prod-rubrik {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
 }
 
-#prod-rubrik {
-    text-align: center;
-    padding: 10px;
-}
-
 #xboxhead {
     text-align: center;
+    padding: 10px;
+    margin: 5px;
 }
 
 #xbox-text {
@@ -24,6 +27,8 @@ body {
 
 #playstationhead {
     text-align: center;
+    padding: 10px;
+    margin: 5px;
 }
 
 #playstation-text {
@@ -45,7 +50,7 @@ body {
 
     #xboxhead {
         text-align: center;
-        margin-right: 300px;
+        margin-right: 400px;
     }
 
     #xbox-text {
@@ -55,7 +60,7 @@ body {
 
     #playstationhead {
         text-align: center;
-        margin-left: 300px;
+        margin-left: 400px;
     }
 
     #playstation-text {

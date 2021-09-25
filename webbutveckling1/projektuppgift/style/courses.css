@@ -2,11 +2,10 @@ body {
     background-color: aliceblue;
 }
 
-
 td, th {
     border: 2px solid black;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     background-color: ivory;
 }
 
@@ -17,10 +16,11 @@ table {
 
 #courses-header1 {
     text-align: center;
+    margin: 20px;
 }
 
 #courses-text1 {
-    padding: 10px;
+    margin: 10px;
 }
 
 #table-cap {
@@ -34,11 +34,14 @@ table {
 
 .kursheaders {
     text-align: left;
+    padding: 5px;
 }
 
 @media only screen and (min-width: 768px) {
     .kursheaders {
         text-align: center;
+        margin: 10px;
+        padding: 5px;
     }
 }
 

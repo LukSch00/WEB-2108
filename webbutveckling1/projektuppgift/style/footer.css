@@ -1,9 +1,11 @@
-#footer {
-    background-color: gray;
-    float: bottom;
-    height: 3em;
+footer {
+    background-color: black;
+    position: relative;
+    height: 60px;
+    margin: auto;
 }
 
-.copyright {
+.copyright-text {
     text-align: center;
+    color: white;
 }

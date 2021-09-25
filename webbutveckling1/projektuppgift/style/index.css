@@ -1,24 +1,32 @@
-body {
-    background-image: url("https://i.pinimg.com/originals/0b/d8/38/0bd83826ea4ab303f6ec65ce784c913d.jpg");
-    background-size: cover;
+body  {
+    background-image: url("https://fullhdoboi.ru/wp-content/uploads/_ph/22/234636663.jpg");
 }
 
-.content {
-    background: ghostwhite;
-    margin: 10px auto;
+.box {
+    background: royalblue;
+
+    margin: 100px auto;
     width: 90%;
     padding: 10px;
 }
 
+#index-header {
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
 p {
+    color: white;
     font-size: 20px;
+    text-align: center;
 }
 
 @media only screen and (min-width: 768px) {
-    .content {
-        background: ghostwhite;
+    .box {
+        background: royalblue;
         width: 70%;
         padding: 40px;
-        margin: 100px auto;
+        margin-top: 250px;
     }
 }
