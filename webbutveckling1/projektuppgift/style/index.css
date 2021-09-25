@@ -1,8 +1,24 @@
-.image-back {
-    background-image: url("https://10wallpaper.com/wallpaper/1920x1080/1510/colorful_abstract_gradient-Design_HD_Wallpaper_1920x1080.jpg");
+body {
+    background-image: url("https://i.pinimg.com/originals/0b/d8/38/0bd83826ea4ab303f6ec65ce784c913d.jpg");
+    background-size: cover;
 }
 
+.content {
+    background: ghostwhite;
+    margin: 10px auto;
+    width: 90%;
+    padding: 10px;
+}
+
+p {
+    font-size: 20px;
+}
 
 @media only screen and (min-width: 768px) {
-
+    .content {
+        background: ghostwhite;
+        width: 70%;
+        padding: 40px;
+        margin: 100px auto;
+    }
 }
