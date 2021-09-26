@@ -1,10 +1,9 @@
-body  {
+body {
     background-image: url("https://fullhdoboi.ru/wp-content/uploads/_ph/22/234636663.jpg");
 }
 
 .box {
     background: royalblue;
-
     margin: 100px auto;
     width: 90%;
     padding: 10px;
@@ -22,9 +21,10 @@ p {
     text-align: center;
 }
 
+#footer
+
 @media only screen and (min-width: 768px) {
     .box {
-        background: royalblue;
         width: 70%;
         padding: 40px;
         margin-top: 250px;

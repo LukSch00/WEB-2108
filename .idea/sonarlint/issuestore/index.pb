@@ -5,8 +5,6 @@ P
 .gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
 Q
 !webbutveckling1/om-mig/index.html,8\0\80682560cb36ca076323934e3205957601217bb2
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 _
 /webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
 ^
@@ -19,21 +17,23 @@ a
 .webbutveckling1/projektuppgift/style/style.css,4\b\4b3996757f15be3efbcd286aa3bf41029488b87c
 ^
 .webbutveckling1/projektuppgift/style/blogg.css,5\c\5cae55f2e26fc44d4b8407c8f539d9053c171b3d
-^
-.webbutveckling1/projektuppgift/style/index.css,f\9\f9b9248862f2490bed9812d0584396b762b679c9
 _
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
-\
-,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
-Y
-)webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
 ^
 .webbutveckling1/projektuppgift/style/other.css,f\b\fbcf4518bdbf537c2602a307668e300fb3aaf799
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Y
+)webbutveckling1/projektuppgift/about.html,7/e/7e7bc5563870ff3a9d990bd42e5e7bde97b08209
 [
-+webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
++webbutveckling1/projektuppgift/courses.html,f/7/f778f25418d993facfc92316d01cb4091a0af569
 Y
-)webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
+)webbutveckling1/projektuppgift/other.html,b/0/b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
+\
+,webbutveckling1/projektuppgift/products.html,c/8/c891abb8c118882a96d20bd577e56dcd69bb14b1
+^
+.webbutveckling1/projektuppgift/style/index.css,f/9/f9b9248862f2490bed9812d0584396b762b679c9
 Y
-)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
+)webbutveckling1/projektuppgift/index.html,4/e/4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 Y
-)webbutveckling1/projektuppgift/blogg.html,3\e\3eb6d494c6512ce03575f051008536b86185165f
+)webbutveckling1/projektuppgift/blogg.html,3/e/3eb6d494c6512ce03575f051008536b86185165f
