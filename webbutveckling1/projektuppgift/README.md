@@ -47,4 +47,4 @@ ___
 6. skulle jag ge mig ett betyg skulle jag säga 5/10 gjorde bra saker men skulle kunnat mer
 
 Ska sägas att jag missa en och halv vecka av att varit sjuk och inte kunnat arbeta.
-så med lite mindre tiden är jag ändå helt nöjd.
+Så med den tiden jag haft är jag ändå helt nöjd.
