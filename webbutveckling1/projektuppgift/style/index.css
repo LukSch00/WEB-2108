@@ -21,7 +21,9 @@ p {
     text-align: center;
 }
 
-#footer
+#footer {
+    position: fixed;
+}
 
 @media only screen and (min-width: 768px) {
     .box {
