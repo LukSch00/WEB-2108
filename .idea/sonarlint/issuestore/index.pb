@@ -1,8 +1,6 @@
 
 P
  webbutveckling1/om-mig/style.css,d\5\d5310e1ccfd6cd64e037fcdabe95a76427f11840
->
-.gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
 Q
 !webbutveckling1/om-mig/index.html,8\0\80682560cb36ca076323934e3205957601217bb2
 _
@@ -17,8 +15,6 @@ a
 .webbutveckling1/projektuppgift/style/other.css,f\b\fbcf4518bdbf537c2602a307668e300fb3aaf799
 P
  webbutveckling1/om-mig/README.md,0\c\0c31e010b9207297a5f93fcda9bc9d03e2495c52
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 _
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
 ^
@@ -41,3 +37,5 @@ Y
 )webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
 X
 (webbutveckling1/projektuppgift/README.md,c\9\c907713135a08e9f2b3f4fb6b155092641b934af
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
