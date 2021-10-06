@@ -25,8 +25,6 @@ Y
 .webbutveckling1/projektuppgift/style/blogg.css,5\c\5cae55f2e26fc44d4b8407c8f539d9053c171b3d
 Y
 )webbutveckling1/projektuppgift/blogg.html,3\e\3eb6d494c6512ce03575f051008536b86185165f
-Y
-)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
 X
 (webbutveckling1/projektuppgift/README.md,c\9\c907713135a08e9f2b3f4fb6b155092641b934af
 9
@@ -37,7 +35,9 @@ Y
 )webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
 [
 +webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
-_
-/webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
 \
 ,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
+Y
+)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
+_
+/webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
