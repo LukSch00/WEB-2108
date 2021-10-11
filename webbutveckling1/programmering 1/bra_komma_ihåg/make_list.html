@@ -9,8 +9,13 @@
 <body>
 <h2>Skapa en lista från en array</h2>
 
+<p id="randomCar"></p>
+
+<button onclick="returnRandomCar(data)">Get random car!!</button>
+<button onclick="returnRandomCar(data2)">Get random fruit!!</button>
+
 <script>
-    let data = ['Audi', 'BMW', 'Volvo', 'Saab', 'Daica']
+    let data = ['Audi', 'BMW', 'Volvo', 'Saab', 'Daica', 'Polestar']
     let data2 = ['Äpple', 'Citron', 'Päron']
 
     function makeList(listData) {
@@ -34,7 +39,13 @@
 
     makeList(data)
     makeList(data2)
-    
+
+    function returnRandomCar(array) {
+        let index = Math.floor(Math.random() * array.length)
+        document.getElementById('randomCar').innerText = array[index]
+        console.log(index)
+    }
+
 </script>
 </body>
 </html>
