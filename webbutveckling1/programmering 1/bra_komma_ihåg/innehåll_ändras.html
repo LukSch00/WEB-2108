@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title</title>
+    <link rel='stylesheet' href='css/style.css'>
+    <script>
+        function myFunction() {
+            // document.getElementById('demo').innerHTML = ""
+            document.getElementById('demo').innerText = "Innehållet i paragrafen har ändrats"
+        }
+    </script>
+</head>
+<body>
+<h1>Bad practice! lägg aldrig script i head</h1>
+
+<h2>JavaScript in head</h2>
+
+<p id="demo">En paragraf</p>
+
+<button onclick="myFunction()">
+    Klicka på Mig
+</button>
+
+</body>
+</html>

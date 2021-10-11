@@ -1,20 +1,14 @@
 
-P
- webbutveckling1/om-mig/style.css,d\5\d5310e1ccfd6cd64e037fcdabe95a76427f11840
 `
 0webbutveckling1/projektuppgift/style/courses.css,e\6\e605ca90d1f70f2de76f9d6cb95327c967d46865
 a
 1webbutveckling1/projektuppgift/style/products.css,1\c\1cb55c09ce0839eea67eb015be0dbe478aa28c9c
-^
-.webbutveckling1/projektuppgift/style/style.css,4\b\4b3996757f15be3efbcd286aa3bf41029488b87c
 ^
 .webbutveckling1/projektuppgift/style/other.css,f\b\fbcf4518bdbf537c2602a307668e300fb3aaf799
 _
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
 ^
 .webbutveckling1/projektuppgift/style/index.css,f\9\f9b9248862f2490bed9812d0584396b762b679c9
-^
-.webbutveckling1/projektuppgift/style/about.css,c\6\c6c9ac3eea628196b21e4faede061899d4a86dc9
 Y
 )webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 ^
@@ -33,11 +27,9 @@ _
 /webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
 \
 ,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
-m
-=webbutveckling1/programmering 1/leka med javascript/lekmer.js,a\f\af22f6c500c43b1dbdde6e41b983ab93e7724d46
-q
-Awebbutveckling1/programmering 1/leka med javascript/javascript.js,c\7\c7c35582ab25a59637f8c7f4f3b3a4b99412c8a6
-P
- webbutveckling1/om-mig/README.md,0\c\0c31e010b9207297a5f93fcda9bc9d03e2495c52
 Q
 !webbutveckling1/om-mig/index.html,8\0\80682560cb36ca076323934e3205957601217bb2
+P
+ webbutveckling1/om-mig/README.md,0\c\0c31e010b9207297a5f93fcda9bc9d03e2495c52
+n
+>webbutveckling1/programmering 1/leka med javascript/pyramid.js,2\8\28031dcc366cdf88d8eb64bf520c21fcc7a4fb02
