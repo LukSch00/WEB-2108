@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title</title>
+    <link rel='stylesheet' href='css/style.css'>
+</head>
+<body>
+<h2>Skapa en lista från en array</h2>
+
+<script>
+    let data = ['Audi', 'BMW', 'Volvo', 'Saab', 'Daica']
+    let data2 = ['Äpple', 'Citron', 'Päron']
+
+    function makeList(listData) {
+        // Skapa en container för innehållet
+        let listContainer = document.createElement('section')
+        // Skapa list container
+        let listElement = document.createElement('ul')
+        // Addera den till body
+        document.getElementsByTagName('body')[0].appendChild(listContainer)
+        listContainer.appendChild(listElement)
+
+        for (let i = 0; i <listData.length; i++) {
+            // Skapa en item av varje element i arrayen
+            let listItem = document.createElement('li')
+            // addera bilmärke till listItem
+            listItem.innerText = listData[i]
+            // addera listItem till listElment
+            listElement.appendChild(listItem)
+        }
+    }
+
+    makeList(data)
+    makeList(data2)
+    
+</script>
+</body>
+</html>
