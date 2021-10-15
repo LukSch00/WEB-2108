@@ -1,4 +1,4 @@
-const maxNum = 10 //hur lågt och högt numret får vara högst
+const maxNum = 10 // hur lågt och högt numret får vara högst
 
 function generateRandomNumber(maxNumber) {
     let correctNumber = Math.floor(Math.random() * maxNumber + 1)

@@ -83,3 +83,5 @@ o
 ?webbutveckling1/programmering 1/guess-number/js/guessinggame.js,0\9\09fd11ada0357f5151f24d279cfd40bcbdf13594
 g
 7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
+g
+7webbutveckling1/programmering 1/guess-number/js/test.js,b\2\b2cad73271f37942cf7decf3a5399fde708f8fd4
