@@ -1,0 +1,12 @@
+#guess-output-counter {
+    color: Blue;
+}
+
+#guess-output-text {
+    color: red;
+}
+
+* {
+    background-color: lightblue;
+    text-align: center;
+}

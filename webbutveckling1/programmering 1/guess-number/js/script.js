@@ -52,7 +52,7 @@ function verifyGuessEvent(correctNumber, guess) {
     }
 }
 
-function triggerAI() {
+function triggerAIOptimized() {
     // let aiGuess = 5
     let correctNumber = -1
     let data

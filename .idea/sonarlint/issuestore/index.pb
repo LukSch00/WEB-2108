@@ -63,10 +63,6 @@ k
 ;webbutveckling1/programmering 1/bra_komma_ihåg/alert2.html,a\8\a874115b8240fe630ab86c7a95330fe42e565fe2
 p
 @webbutveckling1/programmering 1/bra_komma_ihåg/console_log.html,3\3\33590a160abcba1d288590850852702fa6aa13a2
-n
->webbutveckling1/programmering 1/leka med javascript/pyramid.js,2\8\28031dcc366cdf88d8eb64bf520c21fcc7a4fb02
-m
-=webbutveckling1/programmering 1/leka med javascript/lekmer.js,a\f\af22f6c500c43b1dbdde6e41b983ab93e7724d46
 o
 ?webbutveckling1/programmering 1/bra_komma_ihåg/light_bulb.html,1\b\1b2b826db8dac8da3fded03b9fec9b663dbc8b16
 j
@@ -75,5 +71,15 @@ l
 <webbutveckling1/programmering 1/bra_komma_ihåg/onClick.html,9\8\989159ffc190664b6446b2da4bb05766b45a4407
 n
 >webbutveckling1/programmering 1/bra_komma_ihåg/make_list.html,5\1\517b3d1e21ab98520aa1125dabf3e0d82dc89c95
+o
+?webbutveckling1/programmering 1/guess-number/js/guessinggame.js,0\9\09fd11ada0357f5151f24d279cfd40bcbdf13594
+m
+=webbutveckling1/programmering 1/leka med javascript/lekmer.js,a\f\af22f6c500c43b1dbdde6e41b983ab93e7724d46
+n
+>webbutveckling1/programmering 1/leka med javascript/pyramid.js,2\8\28031dcc366cdf88d8eb64bf520c21fcc7a4fb02
 j
 :webbutveckling1/programmering 1/guess-number/css/style.css,7\5\75afebfb20188de53bdf30d402777e106f0cc504
+i
+9webbutveckling1/programmering 1/guess-number/js/script.js,c\0\c09dab4eda12d27f0dfa2928f2263dd4d40d5285
+g
+7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
