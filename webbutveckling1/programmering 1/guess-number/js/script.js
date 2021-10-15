@@ -18,6 +18,7 @@ function newGuess() {
 }
 
 let tries = 1
+
 function counter() {
     let text = `Antal försök: ${String(tries)}`
     document.getElementById('guess-output-counter').innerHTML = text
@@ -34,7 +35,7 @@ function resetGame() {
 function verifyGuessEvent(correctNumber, guess) {
     let isGuessCorrect = false
     let text = ''
-    console.log(`Du gissade på: ${ guess }`)
+    console.log(`Du gissade på: ${guess}`)
     if (correctNumber === guess) {
         text = 'Rätt nummer!'
         isGuessCorrect = true
@@ -45,5 +46,29 @@ function verifyGuessEvent(correctNumber, guess) {
     } else {
         text = 'Du skrev inte in ett nummer!'
     }
-    return [isGuessCorrect, text]
+    return {
+        isGuessCorrect: isGuessCorrect,
+        message: text
+    }
 }
+
+function triggerAI() {
+    // let aiGuess = 5
+    let correctNumber = -1
+    let data
+    for (let i = 1; i < maxNum; i++) {
+        data = verifyGuessEvent(random, i)
+        console.log(data)
+        if (data.isGuessCorrect) {
+            correctNumber = i
+            break
+        }
+        counter()
+    }
+    document.getElementById('guess-output-counter').innerHTML = data.message
+    let text = `Antal försök: ${String(correctNumber)}`
+    document.getElementById('guess-output-counter').innerHTML = text
+}
+
+
+document.getElementById('guess-output-text')
