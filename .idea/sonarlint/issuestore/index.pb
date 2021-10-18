@@ -81,5 +81,3 @@ j
 :webbutveckling1/programmering 1/guess-number/css/style.css,7\5\75afebfb20188de53bdf30d402777e106f0cc504
 i
 9webbutveckling1/programmering 1/guess-number/js/script.js,c\0\c09dab4eda12d27f0dfa2928f2263dd4d40d5285
-g
-7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
