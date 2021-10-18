@@ -19,7 +19,8 @@ h2 {
 }
 
 .grid-container1 {
-    display: grid;grid-template-columns: 100px auto 200px;
+    display: grid;
+    grid-template-columns: 100px auto 200px;
     background-color: antiquewhite;
     margin-bottom: 1em;
 }

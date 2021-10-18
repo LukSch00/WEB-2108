@@ -25,8 +25,6 @@ Y
 +webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
 _
 /webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
-\
-,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
 Q
 !webbutveckling1/om-mig/index.html,8\0\80682560cb36ca076323934e3205957601217bb2
 P

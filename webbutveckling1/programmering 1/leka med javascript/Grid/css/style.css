@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+}
+
+main {
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+.head {
+    grid-area: top;
+    font-size: 30px;
+}
+
+.info {
+    grid-area: middle;
+    margin-top: 1em;
+}
+
+.text {
+    grid-area: bottom;
+}
+
+.bild {
+    grid-area: side;
+    margin-left: 1em;
+}
+.grid-fifa {
+    padding: 2em;
+    display: grid;
+    grid-template-areas:
+            'top side side'
+            'middle side side'
+            'bottom side side';
+}
