@@ -77,3 +77,33 @@ j
 :webbutveckling1/programmering 1/guess-number/css/style.css,7\5\75afebfb20188de53bdf30d402777e106f0cc504
 i
 9webbutveckling1/programmering 1/guess-number/js/script.js,c\0\c09dab4eda12d27f0dfa2928f2263dd4d40d5285
+g
+7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
+w
+Gwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/index.html,9\d\9d6a022b73770d2b5c4de7d1029436594d7eb608
+{
+Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/index.html,4\1\4160ce6faccb7ec734aca859e420ffe145467694
+~
+Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/css/style.css,2\8\28f8233f27b7ff237a777e9ca352338bc5c735eb
+\
+,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
+s
+Cwebbutveckling1/programmering 1/leka med javascript/Grid/index.html,3\d\3d8ccf17c78ebd384c7d5fead7ab7b886e5cb889
+v
+Fwebbutveckling1/programmering 1/leka med javascript/Grid/css/style.css,5\3\532e1db61427da6f12cbd9992a3d8eb2edc1ca6f
+z
+Jwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/css/style.css,c\e\ce807e6565feb95ee78acd32a6b46da0d4c89a42
+~
+Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/css/style.css,2\c\2c2eff6d5ea2eb1baa587da86929d5e3c0ca713b
+}
+Mwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/js/script.js,e\7\e7dacac90c9aade04580b7e3fd3e2341c523555c
+{
+Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2\8\28811ea8a07e1f3d0f7da52f300c7c96198792fc
+�
+Qwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/css/style.css,f\1\f15827b687a71acf8bc841b573ef1db4285b2a56
+m
+=webbutveckling1/programmering 1/bra_komma_ihåg/js/exempel.js,4\4\444f15c099ad589013ed034e73a9776ab2e6b0f1
+�
+Pwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/js/script.js,d\7\d7c7554064d22ddc7b230a383b05ef805d4a8a25
+~
+Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/index.html,6\8\683afaea9316d0b2d0b400d483d0f7cb3aa1c8fb
