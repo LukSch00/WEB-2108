@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-size: 2em;
+}
+
+.bigger-h6 {
+    font-size: 2em;
+}
