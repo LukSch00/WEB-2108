@@ -101,3 +101,11 @@ Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2\
 Qwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/css/style.css,f\1\f15827b687a71acf8bc841b573ef1db4285b2a56
 m
 =webbutveckling1/programmering 1/bra_komma_ihåg/js/exempel.js,4\4\444f15c099ad589013ed034e73a9776ab2e6b0f1
+s
+Cwebbutveckling1/programmering 1/leka med javascript/Grid/index.html,3/d/3d8ccf17c78ebd384c7d5fead7ab7b886e5cb889
+c
+3webbutveckling1/projekt_programmering/css/style.css,b/d/bdf992365f3f1280735a77206ba808205858804c
+~
+Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/index.html,6/8/683afaea9316d0b2d0b400d483d0f7cb3aa1c8fb
+�
+Pwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/js/script.js,d/7/d7c7554064d22ddc7b230a383b05ef805d4a8a25

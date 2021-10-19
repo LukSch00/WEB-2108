@@ -8,4 +8,6 @@ function nameChangeButton() {
     document.getElementById('hello-name').innerText = nameChanger
 }
 
-
+function randomName() {
+    document.getElementById('name-change').value = 'Random'
+}
