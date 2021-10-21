@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#side_header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid black;
+}
+
+#header-logo {
+    font-size: 30px;
+    text-align: center;
+}
+
+#menu_image {
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+#checkout_image {
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+nav {
+    padding: 15px;
+    background-color: lime;
+    text-align: center;
+}
+
+#covers {
+    margin-left: 200px;
+    width: 1500px;
+    height: 500px;
+}

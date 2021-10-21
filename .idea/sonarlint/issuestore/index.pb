@@ -13,10 +13,6 @@ Y
 )webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 ^
 .webbutveckling1/projektuppgift/style/blogg.css,5\c\5cae55f2e26fc44d4b8407c8f539d9053c171b3d
-Y
-)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
-X
-(webbutveckling1/projektuppgift/README.md,c\9\c907713135a08e9f2b3f4fb6b155092641b934af
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 Y
@@ -79,8 +75,6 @@ i
 9webbutveckling1/programmering 1/guess-number/js/script.js,c\0\c09dab4eda12d27f0dfa2928f2263dd4d40d5285
 g
 7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
-w
-Gwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/index.html,9\d\9d6a022b73770d2b5c4de7d1029436594d7eb608
 {
 Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/index.html,4\1\4160ce6faccb7ec734aca859e420ffe145467694
 ~
@@ -89,8 +83,6 @@ Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/css/style.css
 ,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
 v
 Fwebbutveckling1/programmering 1/leka med javascript/Grid/css/style.css,5\3\532e1db61427da6f12cbd9992a3d8eb2edc1ca6f
-z
-Jwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/css/style.css,c\e\ce807e6565feb95ee78acd32a6b46da0d4c89a42
 ~
 Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/css/style.css,2\c\2c2eff6d5ea2eb1baa587da86929d5e3c0ca713b
 }
@@ -105,11 +97,5 @@ s
 Cwebbutveckling1/programmering 1/leka med javascript/Grid/index.html,3/d/3d8ccf17c78ebd384c7d5fead7ab7b886e5cb889
 c
 3webbutveckling1/projekt_programmering/css/style.css,b/d/bdf992365f3f1280735a77206ba808205858804c
-~
-Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/index.html,6/8/683afaea9316d0b2d0b400d483d0f7cb3aa1c8fb
-�
-Pwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/js/script.js,d/7/d7c7554064d22ddc7b230a383b05ef805d4a8a25
-`
-0webbutveckling1/projekt_programmering/index.html,7/6/76ca331b901a3cefc40e57025d14808cff64a228
 b
 2webbutveckling1/projekt_programmering/js/script.js,c/a/ca2fe3a5eb05e598c75e61cb7c37823411f748ee
