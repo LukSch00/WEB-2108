@@ -99,3 +99,31 @@ c
 3webbutveckling1/projekt_programmering/css/style.css,b/d/bdf992365f3f1280735a77206ba808205858804c
 b
 2webbutveckling1/projekt_programmering/js/script.js,c/a/ca2fe3a5eb05e598c75e61cb7c37823411f748ee
+~
+Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/index.html,6\8\683afaea9316d0b2d0b400d483d0f7cb3aa1c8fb
+�
+Pwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/js/script.js,d\7\d7c7554064d22ddc7b230a383b05ef805d4a8a25
+r
+Bwebbutveckling1/programmering 1/projekt_programmering/js/script.js,4\7\47fb12bd4da9273bd125f2cf208e3d4dfb971e72
+s
+Cwebbutveckling1/programmering 1/projekt_programmering/css/style.css,9\a\9a7985d23b72f5c67e40833a0ea37ad4df5c39c6
+p
+@webbutveckling1/programmering 1/projekt_programmering/index.html,9\2\92054815fc3923ddc1bfc2ad23a4363e448ddb80
+k
+;webbutveckling1/projektuppgift_programmering_1/js/script.js,c\1\c1aa9f8204b66b963beff5b894982fc9c96b184a
+i
+9webbutveckling1/projektuppgift_programmering_1/js/test.js,d\d\dd6feb5a764cb29a57cd43f893c38c214199e705
+Y
+)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
+X
+(webbutveckling1/projektuppgift/README.md,c\9\c907713135a08e9f2b3f4fb6b155092641b934af
+w
+Gwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/index.html,9\d\9d6a022b73770d2b5c4de7d1029436594d7eb608
+z
+Jwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/css/style.css,c\e\ce807e6565feb95ee78acd32a6b46da0d4c89a42
+h
+8webbutveckling1/projektuppgift_programmering_1/README.md,8\b\8ba04c93e8a32633168f1aff132398b29bd2b200
+l
+<webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
+i
+9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b
