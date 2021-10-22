@@ -13,8 +13,6 @@ Y
 )webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 ^
 .webbutveckling1/projektuppgift/style/blogg.css,5\c\5cae55f2e26fc44d4b8407c8f539d9053c171b3d
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 Y
 )webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
 [
@@ -95,10 +93,6 @@ m
 =webbutveckling1/programmering 1/bra_komma_ihåg/js/exempel.js,4\4\444f15c099ad589013ed034e73a9776ab2e6b0f1
 s
 Cwebbutveckling1/programmering 1/leka med javascript/Grid/index.html,3/d/3d8ccf17c78ebd384c7d5fead7ab7b886e5cb889
-c
-3webbutveckling1/projekt_programmering/css/style.css,b/d/bdf992365f3f1280735a77206ba808205858804c
-b
-2webbutveckling1/projekt_programmering/js/script.js,c/a/ca2fe3a5eb05e598c75e61cb7c37823411f748ee
 ~
 Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/index.html,6\8\683afaea9316d0b2d0b400d483d0f7cb3aa1c8fb
 �
@@ -117,13 +111,3 @@ Y
 )webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
 X
 (webbutveckling1/projektuppgift/README.md,c\9\c907713135a08e9f2b3f4fb6b155092641b934af
-w
-Gwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/index.html,9\d\9d6a022b73770d2b5c4de7d1029436594d7eb608
-z
-Jwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/css/style.css,c\e\ce807e6565feb95ee78acd32a6b46da0d4c89a42
-h
-8webbutveckling1/projektuppgift_programmering_1/README.md,8\b\8ba04c93e8a32633168f1aff132398b29bd2b200
-l
-<webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
-i
-9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b

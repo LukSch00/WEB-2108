@@ -13,7 +13,7 @@ det så börja jag med byta title till Albums. Sen börja med det vanliga tags
 samt en fake dropdown menu. Jag skapa en img fil nu för att få in iconer. Jag stöte på mitt 
 första problem som var att jag ej vet hur jag får in iconen från https://css.gg/shopping-cart.
 Jag gick istället över till google fonts och ladda ner två .png filer till hamburger menu och
-shopping cart. Har nu gjorrt en section som innehåller header och cart samt menu med sina id.
+shopping cart. Har nu gjort en section som innehåller header och cart samt menu med sina id.
 skappade sen en search bar under då stötte jag på problemet att jag inte kunde få den att gå 
 hela vägen från vänster till höger. Så för stunden så satte jag den i mitten under logo.
 Jag bytte ut iconerna mott större varianter för att det passade bättre in när jag la lite
@@ -21,3 +21,12 @@ margin. Sen la jag till färger till både header och nav. jag la till en bild o
 se lite bättre ut. Jag började jobba på hur iconeran menu och cheackout skulle liga och med
 logan och fick använda mig av margin lef & right samt top för placera dem. Jag la till en
 border runt header också för lite mer detaljer.</p>
+
+###2021-10-22
+<p>Idag starta jag med skapa en ny section under cover som ska vara för albumen. Jag börja
+med skapa en h2. Jag börja nu jobba på hitta och skapa albumen och även h3 under dem i varje
+article som jag skapat. Medans jag gjorde det åkte jag på ett problem till då jag vill ha
+4 album i rad på 2 rows. Jag kolla på w3schools och såg att man kan använda repeat för att
+det ska var 4st i 1fr på varje rad med grid. Jag nu lagt till lite stayling på det 
+så att det ser bättre ut ex som gap mellan och en hr under erbjudande header. Jag gav också 
+övre bilden på covers grönt bakom sig för mer färg.</p>

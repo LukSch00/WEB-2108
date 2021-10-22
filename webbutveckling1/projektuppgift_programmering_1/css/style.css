@@ -31,13 +31,29 @@ body{
 }
 
 nav {
-    padding: 15px;
+    padding: 20px;
     background-color: lime;
     text-align: center;
+}
+
+#cover_bild {
+    background-color: lime;
 }
 
 #covers {
     margin-left: 200px;
     width: 1500px;
     height: 500px;
+}
+
+#erbjudandeHeader {
+    text-align: center;
+    font-size: 50px;
+}
+
+#album_row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    grid-row-gap: 20px;
 }
