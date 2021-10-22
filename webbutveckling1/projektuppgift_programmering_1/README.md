@@ -29,4 +29,6 @@ article som jag skapat. Medans jag gjorde det åkte jag på ett problem till då
 4 album i rad på 2 rows. Jag kolla på w3schools och såg att man kan använda repeat för att
 det ska var 4st i 1fr på varje rad med grid. Jag nu lagt till lite stayling på det 
 så att det ser bättre ut ex som gap mellan och en hr under erbjudande header. Jag gav också 
-övre bilden på covers grönt bakom sig för mer färg.</p>
+övre bilden på covers grönt bakom sig för mer färg. Jag adda nu även padding på h3 i article
+för att ge margin så det ligger längre upp med bilden samt lite font-size. skapade buttons
+på alla album som jag ska designa om lite nu så det ser bättre ut.</p>

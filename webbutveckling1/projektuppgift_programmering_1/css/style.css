@@ -57,3 +57,12 @@ nav {
     text-align: center;
     grid-row-gap: 20px;
 }
+
+.album_artist {
+    margin-top: 2px;
+    font-size: 25px;
+}
+
+.köp_button {
+
+}
