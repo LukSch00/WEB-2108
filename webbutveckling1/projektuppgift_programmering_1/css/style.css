@@ -66,3 +66,13 @@ nav {
 .köp_button {
 
 }
+
+
+footer {
+    background-color: lightgrey;
+    position: relative;
+    bottom: 0;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+}

@@ -5,16 +5,12 @@ a
 1webbutveckling1/projektuppgift/style/products.css,1\c\1cb55c09ce0839eea67eb015be0dbe478aa28c9c
 ^
 .webbutveckling1/projektuppgift/style/other.css,f\b\fbcf4518bdbf537c2602a307668e300fb3aaf799
-_
-/webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
 ^
 .webbutveckling1/projektuppgift/style/index.css,f\9\f9b9248862f2490bed9812d0584396b762b679c9
 Y
 )webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 ^
 .webbutveckling1/projektuppgift/style/blogg.css,5\c\5cae55f2e26fc44d4b8407c8f539d9053c171b3d
-Y
-)webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
 [
 +webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
 _
@@ -77,8 +73,6 @@ g
 Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/index.html,4\1\4160ce6faccb7ec734aca859e420ffe145467694
 ~
 Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/css/style.css,2\8\28f8233f27b7ff237a777e9ca352338bc5c735eb
-\
-,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
 v
 Fwebbutveckling1/programmering 1/leka med javascript/Grid/css/style.css,5\3\532e1db61427da6f12cbd9992a3d8eb2edc1ca6f
 ~

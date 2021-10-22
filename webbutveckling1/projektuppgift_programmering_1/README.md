@@ -25,10 +25,13 @@ border runt header också för lite mer detaljer.</p>
 ###2021-10-22
 <p>Idag starta jag med skapa en ny section under cover som ska vara för albumen. Jag börja
 med skapa en h2. Jag börja nu jobba på hitta och skapa albumen och även h3 under dem i varje
-article som jag skapat. Medans jag gjorde det åkte jag på ett problem till då jag vill ha
-4 album i rad på 2 rows. Jag kolla på w3schools och såg att man kan använda repeat för att
-det ska var 4st i 1fr på varje rad med grid. Jag nu lagt till lite stayling på det 
-så att det ser bättre ut ex som gap mellan och en hr under erbjudande header. Jag gav också 
-övre bilden på covers grönt bakom sig för mer färg. Jag adda nu även padding på h3 i article
-för att ge margin så det ligger längre upp med bilden samt lite font-size. skapade buttons
-på alla album som jag ska designa om lite nu så det ser bättre ut.</p>
+article som jag skapat. Medans jag gjorde det åkte jag på ett problem då jag vill ha
+4 album i rad på 2 rows. jag gick då in på cdon där dom gjort det fast fler rows en 2.
+jag kollade element och såg att man kan använda repeat för att skapa det 2 rows med 4fr 
+på varje rad med grid. Jag nu lagt till lite stayling på det så att det ser bättre ut
+ex som gap mellan och en hr under erbjudandeHeader. Jag gav också övre bilden på covers 
+lime färg bakom för att ge mer färg. Jag adda nu även padding på h3 i articlarna för att ge 
+margin så det ligger längre upp med bilden samt lite font-size. Jag skapade buttons på alla 
+album som jag designa om lite så det ser bättre ut. Men innan jag började med 
+det så adda jag en footer. Jag tog hjälp av våran gamla uppgift och adda den footer jag
+använde till denna uppgift och gjorde om den lite. </p>
