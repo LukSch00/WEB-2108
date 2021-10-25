@@ -37,8 +37,6 @@ v
 Fwebbutveckling1/programmering 1/bra_komma_ihåg/innehåll_ändras.html,1\6\16fcc17f3269f72570074aecd761c7d6263019ad
 o
 ?webbutveckling1/programmering 1/bra_komma_ihåg/extern_fil.html,1\e\1e0a381ed57e9266fb6ad481fac2f31aed2acde9
-s
-Cwebbutveckling1/programmering 1/bra_komma_ihåg/string_element.html,8\6\863e31716882f16cbe68ccc3dc0327d8c11f085c
 t
 Dwebbutveckling1/programmering 1/bra_komma_ihåg/document_write2.html,b\c\bc782c3194d10a4aa1a21f8aa9787331754beef8
 s
@@ -49,12 +47,8 @@ k
 ;webbutveckling1/programmering 1/bra_komma_ihåg/alert2.html,a\8\a874115b8240fe630ab86c7a95330fe42e565fe2
 p
 @webbutveckling1/programmering 1/bra_komma_ihåg/console_log.html,3\3\33590a160abcba1d288590850852702fa6aa13a2
-o
-?webbutveckling1/programmering 1/bra_komma_ihåg/light_bulb.html,1\b\1b2b826db8dac8da3fded03b9fec9b663dbc8b16
 j
 :webbutveckling1/programmering 1/bra_komma_ihåg/input.html,a\f\af50e7195fc830aaf718bdcb56386b58c8ffbc9a
-l
-<webbutveckling1/programmering 1/bra_komma_ihåg/onClick.html,9\8\989159ffc190664b6446b2da4bb05766b45a4407
 n
 >webbutveckling1/programmering 1/bra_komma_ihåg/make_list.html,5\1\517b3d1e21ab98520aa1125dabf3e0d82dc89c95
 m
@@ -71,14 +65,8 @@ v
 Fwebbutveckling1/programmering 1/leka med javascript/Grid/css/style.css,5\3\532e1db61427da6f12cbd9992a3d8eb2edc1ca6f
 ~
 Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/css/style.css,2\c\2c2eff6d5ea2eb1baa587da86929d5e3c0ca713b
-}
-Mwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/js/script.js,e\7\e7dacac90c9aade04580b7e3fd3e2341c523555c
-{
-Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2\8\28811ea8a07e1f3d0f7da52f300c7c96198792fc
 �
 Qwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/css/style.css,f\1\f15827b687a71acf8bc841b573ef1db4285b2a56
-m
-=webbutveckling1/programmering 1/bra_komma_ihåg/js/exempel.js,4\4\444f15c099ad589013ed034e73a9776ab2e6b0f1
 s
 Cwebbutveckling1/programmering 1/leka med javascript/Grid/index.html,3/d/3d8ccf17c78ebd384c7d5fead7ab7b886e5cb889
 ~
@@ -107,3 +95,29 @@ Y
 ,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
 _
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
+p
+@webbutveckling1/programmering 1/projekt_programmering/index.html,9\2\92054815fc3923ddc1bfc2ad23a4363e448ddb80
+l
+<webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
+i
+9webbutveckling1/programmering 1/guess-number/js/script.js,c\0\c09dab4eda12d27f0dfa2928f2263dd4d40d5285
+o
+?webbutveckling1/programmering 1/guess-number/js/guessinggame.js,0\9\09fd11ada0357f5151f24d279cfd40bcbdf13594
+g
+7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
+}
+Mwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/js/script.js,e\7\e7dacac90c9aade04580b7e3fd3e2341c523555c
+{
+Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2\8\28811ea8a07e1f3d0f7da52f300c7c96198792fc
+m
+=webbutveckling1/programmering 1/bra_komma_ihåg/js/exempel.js,4\4\444f15c099ad589013ed034e73a9776ab2e6b0f1
+o
+?webbutveckling1/programmering 1/bra_komma_ihåg/light_bulb.html,1\b\1b2b826db8dac8da3fded03b9fec9b663dbc8b16
+s
+Cwebbutveckling1/programmering 1/bra_komma_ihåg/string_element.html,8\6\863e31716882f16cbe68ccc3dc0327d8c11f085c
+l
+<webbutveckling1/programmering 1/bra_komma_ihåg/onClick.html,9\8\989159ffc190664b6446b2da4bb05766b45a4407
+h
+8webbutveckling1/projektuppgift_programmering_1/README.md,8\b\8ba04c93e8a32633168f1aff132398b29bd2b200
+i
+9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b

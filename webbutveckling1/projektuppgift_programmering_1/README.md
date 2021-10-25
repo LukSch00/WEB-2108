@@ -45,4 +45,5 @@ använde till denna uppgift och gjorde om den lite. </p>
 ###2021-10-25
 <p>Började dagen med genomgång med Lars. Efter det så gjorde jag så att jag ändra storlek på
 cover bilden. I slutet valde jag ta bort den helt då den tar upp för mycket plats. Jag min
-main en width på 70% och fixera den i mitten.</p>
+main en width på 70% och fixera den i mitten. Flyttade också ut erbjudande texten från main.
+</p>
