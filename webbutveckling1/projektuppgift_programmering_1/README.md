@@ -35,3 +35,14 @@ margin så det ligger längre upp med bilden samt lite font-size. Jag skapade bu
 album som jag designa om lite så det ser bättre ut. Men innan jag började med 
 det så adda jag en footer. Jag tog hjälp av våran gamla uppgift och adda den footer jag
 använde till denna uppgift och gjorde om den lite. </p>
+
+###2021-10-23
+<p>Jag gjorde ej mer en ta det lugnt och kolla in videos på youtube</p>
+
+###2021-10-24 
+<p>Samma idag som igår. Gjorde ej mycket mer en kolla videos på youtube.</p>
+
+###2021-10-25
+<p>Började dagen med genomgång med Lars. Efter det så gjorde jag så att jag ändra storlek på
+cover bilden. I slutet valde jag ta bort den helt då den tar upp för mycket plats. Jag min
+main en width på 70% och fixera den i mitten.</p>

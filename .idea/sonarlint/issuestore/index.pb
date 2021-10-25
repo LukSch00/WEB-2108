@@ -57,18 +57,12 @@ l
 <webbutveckling1/programmering 1/bra_komma_ihåg/onClick.html,9\8\989159ffc190664b6446b2da4bb05766b45a4407
 n
 >webbutveckling1/programmering 1/bra_komma_ihåg/make_list.html,5\1\517b3d1e21ab98520aa1125dabf3e0d82dc89c95
-o
-?webbutveckling1/programmering 1/guess-number/js/guessinggame.js,0\9\09fd11ada0357f5151f24d279cfd40bcbdf13594
 m
 =webbutveckling1/programmering 1/leka med javascript/lekmer.js,a\f\af22f6c500c43b1dbdde6e41b983ab93e7724d46
 n
 >webbutveckling1/programmering 1/leka med javascript/pyramid.js,2\8\28031dcc366cdf88d8eb64bf520c21fcc7a4fb02
 j
 :webbutveckling1/programmering 1/guess-number/css/style.css,7\5\75afebfb20188de53bdf30d402777e106f0cc504
-i
-9webbutveckling1/programmering 1/guess-number/js/script.js,c\0\c09dab4eda12d27f0dfa2928f2263dd4d40d5285
-g
-7webbutveckling1/programmering 1/guess-number/index.html,3\3\338bb56674cf295e155c2aa64023cb93c3678b65
 {
 Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/centrera/index.html,4\1\4160ce6faccb7ec734aca859e420ffe145467694
 ~
@@ -95,8 +89,6 @@ r
 Bwebbutveckling1/programmering 1/projekt_programmering/js/script.js,4\7\47fb12bd4da9273bd125f2cf208e3d4dfb971e72
 s
 Cwebbutveckling1/programmering 1/projekt_programmering/css/style.css,9\a\9a7985d23b72f5c67e40833a0ea37ad4df5c39c6
-p
-@webbutveckling1/programmering 1/projekt_programmering/index.html,9\2\92054815fc3923ddc1bfc2ad23a4363e448ddb80
 k
 ;webbutveckling1/projektuppgift_programmering_1/js/script.js,c\1\c1aa9f8204b66b963beff5b894982fc9c96b184a
 i
@@ -113,11 +105,5 @@ Y
 )webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
 \
 ,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
-l
-<webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
 _
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
-i
-9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b
-h
-8webbutveckling1/projektuppgift_programmering_1/README.md,8\b\8ba04c93e8a32633168f1aff132398b29bd2b200

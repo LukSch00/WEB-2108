@@ -7,7 +7,7 @@ body{
     margin: 0;
 }
 
-#side_header {
+#site_header {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     border: 2px solid black;
@@ -36,16 +36,10 @@ nav {
     text-align: center;
 }
 
-#cover_bild {
-    background-color: lime;
-}
+main {
+    width: 70%;
 
-#covers {
-    margin-left: 200px;
-    width: 1500px;
-    height: 500px;
 }
-
 #erbjudandeHeader {
     text-align: center;
     font-size: 50px;
@@ -62,11 +56,6 @@ nav {
     margin-top: 2px;
     font-size: 25px;
 }
-
-.köp_button {
-
-}
-
 
 footer {
     background-color: lightgrey;
