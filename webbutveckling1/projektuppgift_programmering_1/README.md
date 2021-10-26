@@ -47,3 +47,11 @@ använde till denna uppgift och gjorde om den lite. </p>
 cover bilden. I slutet valde jag ta bort den helt då den tar upp för mycket plats. Jag min
 main en width på 70% och fixera den i mitten. Flyttade också ut erbjudande texten från main.
 </p>
+
+###2021-10-26
+<p>Jag börja med lägga till pris på albumen. jag tog också bort 70% width och gick tillbaka 
+till normalt läge. Jag addade onClick till alla buttons. Jag bytte ut namnet köp kr till
+Add to cart. Jag la till add_cart() enbart till två album på test filen för se så de 
+fungerar med en alert. Bytte namn på checkout till cart. Jag började använda test.js 
+med array och objects för se om jag kna komma fram till något. Jag skapa en data.js också
+för att gör allt lättare hålla koll på.</p>
