@@ -7,52 +7,6 @@ body{
     margin: 0;
 }
 
-#site_header {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    border: 2px solid black;
-}
-
-#header-logo {
-    font-size: 30px;
-    text-align: center;
-}
-
-#menu_image {
-    float: left;
-    margin-left: 40px;
-    margin-top: 20px;
-}
-
-#checkout_image {
-    float: right;
-    margin-right: 40px;
-    margin-top: 20px;
-}
-
-nav {
-    padding: 20px;
-    background-color: lime;
-    text-align: center;
-}
-
-#erbjudandeHeader {
-    text-align: center;
-    font-size: 50px;
-}
-
-#album_row {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    text-align: center;
-    grid-row-gap: 20px;
-}
-
-.album_artist {
-    margin-top: 2px;
-    font-size: 25px;
-}
-
 footer {
     background-color: lightgrey;
     position: relative;

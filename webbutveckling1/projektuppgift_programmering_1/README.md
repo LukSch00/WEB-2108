@@ -53,5 +53,9 @@ main en width på 70% och fixera den i mitten. Flyttade också ut erbjudande tex
 till normalt läge. Jag addade onClick till alla buttons. Jag bytte ut namnet köp kr till
 Add to cart. Jag la till add_cart() enbart till två album på test filen för se så de 
 fungerar med en alert. Bytte namn på checkout till cart. Jag började använda test.js 
-med array och objects för se om jag kna komma fram till något. Jag skapa en data.js också
+med array och objects för se om jag kna komma fram till något. Jag skapa en id.js också
 för att gör allt lättare hålla koll på.</p>
+
+###2021-10-26 
+<p>Jag bestämde mig för att börja om allt förutom footer som jag lätt liga kvar 
+i HTML filen. Jag börja med skapa id.js som jag då skapa albumens id/data i.</p>
