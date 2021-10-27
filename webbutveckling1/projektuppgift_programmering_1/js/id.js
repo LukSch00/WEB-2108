@@ -1,65 +1,43 @@
-let albums = [
+let id = [
     {
-        id: 'Ed Sheeran',
-        src: '![](../img/80426962-140680571-11453-org.webp)',
+        src:'![](../img/edSheeran.webp)',
+        artist: 'Ed Sheeran',
         price: 49
     },
     {
-        id: 'Tupac',
-        src: '![](../img/78662257-139103807-11453-org.webp)',
+        src:'![](../img/tupac.webp)',
+        artist: 'Tupac',
         price: 30
     },
     {
-        id: '50 Cent',
-        src: '![](../img/78662296-139103877-11453-org.webp)',
+        src:'![](../img/50Cent.webp)',
+        artist: '50 Cent',
         price: 39
     },
     {
-        id: 'The Weeknd',
-        src: '![](../img/78662254-139103784-11453-org.webp)',
+        src:'![](../img/theWeeknd.webp)',
+        artist: 'The Weeknd',
         price: 50
     },
     {
-        id: 'Elton John',
-        src: '![](../img/81029540-141379021-11453-org.webp)',
+        src:'![](../img/eltonJohn.webp)',
+        artist: 'Elton John',
         price: 30
     },
     {
-        id: 'Bruno Mars',
-        src: '![](../img/81408674-141844077-11453-org.jpg)',
+        src:'![](../img/brunoMars.jpg)',
+        artist: 'Bruno Mars',
         price: 30
     },
     {
-        id: 'Absolut Music 89',
-        src: '![](../img/81422994-141847984-11453-org.webp)',
+        src:'![](../img/absolutMusic.webp)',
+        artist: 'Absolut Music 89',
         price: 50
     },
     {
-        id: 'Billie Eilish',
-        src: '![](../img/80857686-141146564-11453-org.webp)',
+        src:'![](../img/billie.webp)',
+        artist: 'Billie Eilish',
         price: 40
     },
     ]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-for (let i = 0; i < albums.length; i++) {
-    console.log(albums[i]);
-}

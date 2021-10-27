@@ -1,18 +1,12 @@
 
 `
 0webbutveckling1/projektuppgift/style/courses.css,e\6\e605ca90d1f70f2de76f9d6cb95327c967d46865
-a
-1webbutveckling1/projektuppgift/style/products.css,1\c\1cb55c09ce0839eea67eb015be0dbe478aa28c9c
 ^
 .webbutveckling1/projektuppgift/style/other.css,f\b\fbcf4518bdbf537c2602a307668e300fb3aaf799
 ^
 .webbutveckling1/projektuppgift/style/index.css,f\9\f9b9248862f2490bed9812d0584396b762b679c9
-Y
-)webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 ^
 .webbutveckling1/projektuppgift/style/blogg.css,5\c\5cae55f2e26fc44d4b8407c8f539d9053c171b3d
-[
-+webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
 _
 /webbutveckling1/projektuppgift/style/navbar.css,a\5\a599ca4df2af979d64f7453387e1a3d46a25f006
 Q
@@ -41,8 +35,6 @@ t
 Dwebbutveckling1/programmering 1/bra_komma_ihåg/document_write2.html,b\c\bc782c3194d10a4aa1a21f8aa9787331754beef8
 s
 Cwebbutveckling1/programmering 1/bra_komma_ihåg/document_write.html,8\b\8bc937a360caa505122ccdf65cca8b127953d611
-j
-:webbutveckling1/programmering 1/bra_komma_ihåg/alert.html,2\8\288712e05d83bcf2757764ac4899d5e3ca3fe451
 k
 ;webbutveckling1/programmering 1/bra_komma_ihåg/alert2.html,a\8\a874115b8240fe630ab86c7a95330fe42e565fe2
 p
@@ -75,18 +67,12 @@ Nwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/index.html
 Pwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/componenter/js/script.js,d\7\d7c7554064d22ddc7b230a383b05ef805d4a8a25
 s
 Cwebbutveckling1/programmering 1/projekt_programmering/css/style.css,9\a\9a7985d23b72f5c67e40833a0ea37ad4df5c39c6
-Y
-)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
 X
 (webbutveckling1/projektuppgift/README.md,c\9\c907713135a08e9f2b3f4fb6b155092641b934af
 w
 Gwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/index.html,9\d\9d6a022b73770d2b5c4de7d1029436594d7eb608
 z
 Jwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/grid/css/style.css,c\e\ce807e6565feb95ee78acd32a6b46da0d4c89a42
-Y
-)webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
-\
-,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
 _
 /webbutveckling1/projektuppgift/style/footer.css,c\b\cbba6aacb5c44b0bb6b50b70ba0570db7cba4d10
 i
@@ -111,17 +97,35 @@ g
 7webbutveckling1/programmering 1/guess-number/index.html,3/3/338bb56674cf295e155c2aa64023cb93c3678b65
 {
 Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2/8/28811ea8a07e1f3d0f7da52f300c7c96198792fc
-k
-;webbutveckling1/projektuppgift_programmering_1/js/script.js,c/1/c1aa9f8204b66b963beff5b894982fc9c96b184a
-i
-9webbutveckling1/projektuppgift_programmering_1/js/data.js,a/9/a9fcc80538fddca5b1b53e7ccb825a66c085221d
 l
 <webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
+l
+<webbutveckling1/projektuppgift_programmering_1/css/album.css,f\a\fa96c7b2486bc6123130cfcf66cd92a096c3eb47
+Y
+)webbutveckling1/projektuppgift/about.html,7\e\7e7bc5563870ff3a9d990bd42e5e7bde97b08209
+Y
+)webbutveckling1/projektuppgift/blogg.html,3\e\3eb6d494c6512ce03575f051008536b86185165f
+[
++webbutveckling1/projektuppgift/courses.html,f\7\f778f25418d993facfc92316d01cb4091a0af569
+a
+1webbutveckling1/projektuppgift/style/products.css,1\c\1cb55c09ce0839eea67eb015be0dbe478aa28c9c
+\
+,webbutveckling1/projektuppgift/products.html,c\8\c891abb8c118882a96d20bd577e56dcd69bb14b1
+Y
+)webbutveckling1/projektuppgift/other.html,b\0\b0ea71dc510b20c8c85ccf8afc1afadd8f5f65f6
+Y
+)webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
+j
+:webbutveckling1/programmering 1/bra_komma_ihåg/alert.html,2\8\288712e05d83bcf2757764ac4899d5e3ca3fe451
+g
+7webbutveckling1/projektuppgift_programmering_1/js/id.js,3\a\3a33331aa6cc46b5c1b22b0b22599621809741db
 i
 9webbutveckling1/projektuppgift_programmering_1/js/test.js,d\d\dd6feb5a764cb29a57cd43f893c38c214199e705
 i
-9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b
+9webbutveckling1/projektuppgift_programmering_1/js/cart.js,5\2\5261312e4200c0e3a0a97c0ec9fab9e0c6f2ca2c
 h
 8webbutveckling1/projektuppgift_programmering_1/README.md,8\b\8ba04c93e8a32633168f1aff132398b29bd2b200
-g
-7webbutveckling1/projektuppgift_programmering_1/js/id.js,3\a\3a33331aa6cc46b5c1b22b0b22599621809741db
+j
+:webbutveckling1/projektuppgift_programmering_1/js/album.js,b\b\bb1052b6ae2785ea886f7a3f3985bdce8fe79a49
+i
+9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b

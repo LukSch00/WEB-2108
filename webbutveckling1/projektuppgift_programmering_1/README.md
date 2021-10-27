@@ -7,7 +7,7 @@ så satt jag och kollade upp inspiration till layout/design på hemsidan jag ska
 jag bestämde mig att ta inspiration av CDON.com.</p>
 
 ###2021-10-21
-<p>Denna dag börja med att skapa filerna "index.html, script.js, test.js, style.css" efter
+<p>Denna dag börja med att skapa filerna "index.html, album.js, test.js, style.css" efter
 det så börja jag med byta title till Albums. Sen börja med det vanliga tags
 "header, nav, main, footer". Jag börja med jobba på Header och få in logo och checkout icon
 samt en fake dropdown menu. Jag skapa en img fil nu för att få in iconer. Jag stöte på mitt 
@@ -58,4 +58,28 @@ för att gör allt lättare hålla koll på.</p>
 
 ###2021-10-26 
 <p>Jag bestämde mig för att börja om allt förutom footer som jag lätt liga kvar 
-i HTML filen. Jag börja med skapa id.js som jag då skapa albumens id/data i.</p>
+i HTML filen. Jag börja med skapa id.js som jag då skapa albumens id/data.
+Efter det börja jag bygga på skapa cards med albumen. Jag började med skapa article
+function. Jag tog också bort bilder från id. sen börja jag med skapa funktioner för 
+att få in det i html så du kan se dem sen. först när jag var klar med article så 
+skapa jag en function som tar sig in i html med en innerHtml function. Sen nästa
+function har jag sätt på lektion vilket är den med content. Som fungerar på att
+let ger uttrymme med '' där text kan användas. Och sen for (const album of id) är för
+att article heter album ska förstå att id är den. Sen htmlElment skapar utrymme för att
+genrateAlbum ska få plats som nu är kopplad med album och id. Sen kommer Innerhtml 
+function som skapar till id som jag satt och den vill skapa utrymme med htmlElement.
+sen så slutet kommer htmlContent in som genererar allt jag vill ha in där. Jag stöte på
+ett problem för inget kom upp. Jag löste det med att jag kom på igår att Lars och 
+Christopher paratade om att JavaScript filerna ligger fel årdning så kanske de ej fungera 
+så kollade det och dem låg fel. Bestämde mig nu att adda bild och css till albumen.
+stöte på problem då min grid ej ville fungera. löste det jag hade glömt skriva display.
+Efter även det så vill den ej fungera med css. Kom på mistaget att jag glömt lägga 
+in en link till css filen album. Jag vänta med få img att fungera och fråga klassen om det.
+jag började skapa cart section och det är nästan samma sak som med album/cards. Nu måste jag
+bygga functionen som kopllar dem och räknar hur många av dem. Jag började med skapa en 
+function som känner igen article album så jag skapa en let myCart. Sen skapa jag en 
+for (const album of myCart) för att koppa ihop dem precis som förut. Nu när den känner igen
+function album så vill jag den strict söker efter album.artist button vilkt den gör med ===.
+vilket jag vill ska komma true i fall den känner av den och false om något annat.
+
+</p>
