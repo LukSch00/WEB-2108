@@ -6,19 +6,35 @@
     <title>SchönaAlbum</title>
     <link rel='stylesheet' href='css/style.css'>
     <link rel="stylesheet" href="css/album.css">
+    <link rel="stylesheet" href="css/cart.css">
 </head>
 <body>
+<header class="header-container">
+    <section id="menu">
+        <img src="img/outline_view_headline_black_24dp.png" alt="menu">
+    </section>
+    <section id="logo">
+        <h1>SCHÖNA ALBUM</h1>
+    </section>
+    <section>
+        <button onclick="openMenuAndClose()">Öppna</button>
+    </section>
+</header>
 
+<nav class="nav-container">
+    <label>
+        <input type="search" value="Search">
+    </label>
+</nav>
 <main>
     <section id="album_cards"
-             class="grid-album-container">NONE
+             class="grid-album-container">
     </section>
-    <section id="cart-content">
-
+    <section id="cart-content"
+             class="grid-cart-container">
     </section>
 
 </main>
-
 <footer>
     <h4 class="copyright-text">&copy Copyright by Lukas Schön-Bruckner</h4>
 </footer>

@@ -80,6 +80,30 @@ bygga functionen som kopllar dem och räknar hur många av dem. Jag började med
 function som känner igen article album så jag skapa en let myCart. Sen skapa jag en 
 for (const album of myCart) för att koppa ihop dem precis som förut. Nu när den känner igen
 function album så vill jag den strict söker efter album.artist button vilkt den gör med ===.
-vilket jag vill ska komma true i fall den känner av den och false om något annat.
+vilket jag vill ska komma true i fall den känner av den och false om något annat kommer.
+Sen gjorde jag en function som adda quntity med const items som sen är med myCart så de
+samarbetar. Sen en if sats som kollar att items.artist är lika med button artist så skapar
+den quntity. Efter det så behöver den hjälp med push med myCart.push till artist.
+Sen så gjorde jag en function för att kolla om cart är empty och om den är så ska den pusha
+items till den. sen efter det adda jag alla if else jag har gjort i ordning. Och ordningen 
+är If den är empty så ska pushItemsToCart skicka ditt items If Else om det är item i cart ska 
+den adda quantity och sen Else ska den adda mer med myCart.push. Jag fick då problem
+och det var för inget fungera så tog kolla på din mall och du hade en alwaysRunOnChange
+vilket jag adda. Sen bestämde jag mig för använda din eventlistener för att kunna jobba
+fram men vill senare byta ut den mott onClick. Då kom ett problem som var att den adda 
+det rätta men också på det så adda den undefined som adda hela tiden med det rätta.</p>
 
-</p>
+###2021-10-28
+Jag började med kolla in detta problem från igår. Jag börja med ta bort price till quantity
+för att se lättare i cart. Jag hittade problemet med att jag hade satt en onClick utan
+function. Efter löst det så valde jag nu fixa så det ser ut som en hemsida så jag kan jobba
+bättre. Efter det började jag jobba på att skapa knappen som öppnar och stänger min cart.
+Och efter som carten ligger i en section som är ett element så sökte jag upp på w3school
+om det finns sätt visa och gömma ett element. Jag hitta det så man kan skapa en function
+vilket jag redan hade gjort. Sen skapa man en let som heter något detta fall döpte jag det 
+till i. Och i ska vara värt det samma som min section class card-content och det plocka jag
+upp att den är med doc.getElementById sen skapa en if or else sats. Jag förståd att det 
+var det från början men ej hur jag kunde göra det. Jag skapa sen en css fil till cart.
+Jag stötte då på att jag enbart kan stänga och öppna när jag enbart lagt till en sak.
+
+###2021-10-29

@@ -3,7 +3,7 @@ function generateAlbums(album) {
     <article class="albums">
         <h4>${ album.artist }</h4>
         <p>Price ${ album.price }</p>
-        <button id="${ album.artist }">Add to Cart</button>
+        <button onclick="" id="${ album.artist }">Add to Cart</button>
     </article>
     `
 }

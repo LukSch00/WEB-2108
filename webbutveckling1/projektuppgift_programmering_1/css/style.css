@@ -5,6 +5,22 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: whitesmoke;
+}
+
+.header-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    background-color: #3498DB;
+}
+
+nav {
+    background-color: lightgrey;
+}
+
+.nav-container {
+    text-align: center;
 }
 
 footer {

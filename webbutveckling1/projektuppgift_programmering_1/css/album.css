@@ -1,10 +1,15 @@
-#album_cards {
+.albums {
+    border: solid black 2px;
+    padding: 1em;
+    max-width: 300px;
+    margin-left: 55px;
     text-align: center;
+    background-color: #3498DB;
 }
 
 .grid-album-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    padding: 20px;
-    margin-left: 40px;
+    grid-gap: 60px;
+    margin: 50px
 }
