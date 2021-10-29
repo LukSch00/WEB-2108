@@ -115,8 +115,6 @@ k
 ;webbutveckling1/projektuppgift_programmering_1/css/cart.css,1\f\1f5fd24c575bf502a605bf62d57a6481ff20b294
 p
 @webbutveckling1/programmering 1/projekt_programmering/index.html,9\2\92054815fc3923ddc1bfc2ad23a4363e448ddb80
-k
-;webbutveckling1/projektuppgift_programmering_1/js/script.js,c\1\c1aa9f8204b66b963beff5b894982fc9c96b184a
 {
 Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2\8\28811ea8a07e1f3d0f7da52f300c7c96198792fc
 }

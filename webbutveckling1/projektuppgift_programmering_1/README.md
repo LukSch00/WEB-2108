@@ -7,7 +7,7 @@ så satt jag och kollade upp inspiration till layout/design på hemsidan jag ska
 jag bestämde mig att ta inspiration av CDON.com.</p>
 
 ###2021-10-21
-<p>Denna dag börja med att skapa filerna "index.html, album.js, test.js, style.css" efter
+<p>Denna dag börja med att skapa filerna "index.html, cards.js, test.js, style.css" efter
 det så börja jag med byta title till Albums. Sen börja med det vanliga tags
 "header, nav, main, footer". Jag börja med jobba på Header och få in logo och checkout icon
 samt en fake dropdown menu. Jag skapa en img fil nu för att få in iconer. Jag stöte på mitt 
@@ -107,3 +107,5 @@ var det från början men ej hur jag kunde göra det. Jag skapa sen en css fil t
 Jag stötte då på att jag enbart kan stänga och öppna när jag enbart lagt till en sak.
 
 ###2021-10-29
+Jag nu vart fast länge så jag valde börja om allt och tog bort allt förutom footer.
+Och bestämde mig att sikta på E.
