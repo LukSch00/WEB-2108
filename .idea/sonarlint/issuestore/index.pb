@@ -77,8 +77,6 @@ Y
 )webbutveckling1/projektuppgift/index.html,4\e\4ecfa37fc0d7cd7f3c750f4f5401ef7353966a21
 j
 :webbutveckling1/programmering 1/bra_komma_ihåg/alert.html,2\8\288712e05d83bcf2757764ac4899d5e3ca3fe451
-l
-<webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
 s
 Cwebbutveckling1/programmering 1/bra_komma_ihåg/document_write.html,8\b\8bc937a360caa505122ccdf65cca8b127953d611
 t
@@ -109,13 +107,23 @@ s
 Cwebbutveckling1/programmering 1/bra_komma_ihåg/string_element.html,8\6\863e31716882f16cbe68ccc3dc0327d8c11f085c
 j
 :webbutveckling1/programmering 1/bra_komma_ihåg/input.html,a\f\af50e7195fc830aaf718bdcb56386b58c8ffbc9a
-l
-<webbutveckling1/projektuppgift_programmering_1/css/album.css,f\a\fa96c7b2486bc6123130cfcf66cd92a096c3eb47
-k
-;webbutveckling1/projektuppgift_programmering_1/css/cart.css,1\f\1f5fd24c575bf502a605bf62d57a6481ff20b294
 p
 @webbutveckling1/programmering 1/projekt_programmering/index.html,9\2\92054815fc3923ddc1bfc2ad23a4363e448ddb80
+l
+<webbutveckling1/projektuppgift_programmering_1/css/album.css,f\a\fa96c7b2486bc6123130cfcf66cd92a096c3eb47
 {
 Kwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/index.html,2\8\28811ea8a07e1f3d0f7da52f300c7c96198792fc
 }
 Mwebbutveckling1/programmering 1/bra_komma_ihåg/Viktigt/dropdown/js/script.js,e\7\e7dacac90c9aade04580b7e3fd3e2341c523555c
+h
+8webbutveckling1/projektuppgift_programmering_1/README.md,8\b\8ba04c93e8a32633168f1aff132398b29bd2b200
+k
+;webbutveckling1/projektuppgift_programmering_1/css/cart.css,1\f\1f5fd24c575bf502a605bf62d57a6481ff20b294
+l
+<webbutveckling1/projektuppgift_programmering_1/css/style.css,9\2\92a87c02242d1d1126287a5f345178cb6084a0a7
+k
+;webbutveckling1/projektuppgift_programmering_1/js/script.js,c\1\c1aa9f8204b66b963beff5b894982fc9c96b184a
+g
+7webbutveckling1/projektuppgift_programmering_1/js/id.js,3\a\3a33331aa6cc46b5c1b22b0b22599621809741db
+i
+9webbutveckling1/projektuppgift_programmering_1/index.html,1\3\13e509c0c658b67e70617d95ccd0545d4912e89b

@@ -108,4 +108,11 @@ Jag stötte då på att jag enbart kan stänga och öppna när jag enbart lagt t
 
 ###2021-10-29
 Jag nu vart fast länge så jag valde börja om allt och tog bort allt förutom footer.
-Och bestämde mig att sikta på E.
+Och bestämde mig att sikta på E. Jag tog bort även footer. Jag börja med skapa en nav
+i header med för h2 sen ul li som innehåll fake menu och cart. Sen adda jag färg till
+nav/header. Efter det satte jag cart och menu på en sida med hjälp av margin-left 
+vilket ej är optimalt om jag ska använda andra enheter. jag gav dem också cart och
+ul var sitt id och även gav jag menu och cart olika färger. Jag börja nu skapa cards i
+html filen. Jag skappade card med img price och add to cart button och style med grid
+så de ligger ifrån varandra. Sen börja jag med skapa bara en script fil och skriva in 
+console.log för kolla så den är där.
